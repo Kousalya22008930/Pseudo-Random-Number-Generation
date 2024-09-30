@@ -10,8 +10,8 @@ Get the number of random numbers to generate.
 Pass the value for number of iterations and print the numbers.
 End the program.
 ### PROGRAM:
-#### NAME: KOUSALYA A.
-#### Register Number: 212222230068
+#### NAME: DHARINI PV
+#### Register Number: 212222240024
 ```
 #include <stdio.h>
 #include <stdlib.h>  
